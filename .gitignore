@@ -1,0 +1,5 @@
+# Don't track content of these folders
+Packages/
+Library/
+Assets/TextMesh Pro
+Assets/*.meta
